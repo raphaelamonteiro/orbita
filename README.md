@@ -21,21 +21,23 @@ https://github.com/user-attachments/assets/99c6a827-923b-4f23-a091-4e22bf16678b
 ---
 
 
-<!-- ## 📑 Backlog do Produto
+ ## 📑 Backlog do Produto
 <div align="center">
 
 |Rank |Prioridade|                    User Story                    | Sprint |
 |:---:|:--------:|:------------------------------------------------:|:------:|
-|  1  |  Alta   |     |  1 |
-|  2  |  Alta   |   | 1 |
-|  3 |  Alta   |               | 1 |
-|  4 |  Alta   |     | 2|
-|  5 |  Média   |    | 2 |
-|  6 |  Média   |     | 2 |
-|  7 |  Baixa    |   | 3 |
+|  1  |  Alta   |   Como Administrador, quero gerenciar grupos de suporte e seus atendentes para organizar o atendimento dos chamados.   |  1 |
+|  2  |  Alta   |  Como Cliente, desejo iniciar um atendimento para relatar meu problema para receber suporte. | 1 |
+|  3 |  Alta   |  Como Cliente, quero visualizar meus chamados e seus status para acompanhar o andamento das minhas solicitações e poder as consultar quando quiser. | 1 |
+|  4 |  Alta   | Como Atendende, quero receber ou assumir chamados para iniciar o atendimento ao cliente.   | 2|
+|  5 |  Média   |  Como Administrador, quero configurar as regras de triagem para classificar os chamados aos grupos corretos conforme o tipo de problema.  | 2 |
+|  6 |  Média   |  Como Atendente, quero me comunicar com o cliente no chat do chamado para entender e resolver seu problema.   | 2 |
+|  7 |  Baixa    | Como Atendente, desejo visualizar o histórico completo de mensagens do chamado para entender o contexto antes de responder.  | 2 |
+|  8 |  Baixa    | Como Atendente, quero finalizar um chamado após resolver o problema para concluir o atendimento.  | 2 |
+|  9 |  Baixa    | Como Cliente, desejo receber notificações sobre atualizações no meu chamado para acompanhar mesmo fora do aplicativo.  | 3 |
+|  10 |  Baixa    | Como Atendente, quero escalonar um chamado para outro grupo de suporte  para que possam resolver problemas que excedem meu nível.  | 3 |
 
-
-</div> -->
+</div> 
 
 ## 🛠️ Tecnologias
 
