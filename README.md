@@ -49,20 +49,21 @@ Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe 
 
 <a id="backlog"></a>
 
-| Rank | Prioridade |                                   User Story                                           | Sprint |
-| :--: | :--------: | :------------------------------------------------------------------------------------: | :----: |
-|  1  | Alta  |  Como Administrador, quero gerenciar grupos de suporte e seus atendentes para organizar o atendimento dos chamados.    |   1    |
-|  2  |  Alta |  Como Cliente, desejo iniciar um atendimento para relatar meu problema para receber suporte.   |   1    |
-|  3  |  Alta |  Como Cliente, quero visualizar meus chamados e seus status para acompanhar o andamento das minhas solicitações e poder as consultar quando quiser. |   1    |
-|  4  |  Alta |  Como Atendende, quero receber ou assumir chamados para iniciar o atendimento ao cliente.       |   2    |
-|  5  | Média |  Como Administrador, quero configurar as regras de triagem para classificar os chamados aos grupos corretos conforme o tipo de problema. |   2    |
-|  6  | Média |  Como Atendente, quero me comunicar com o cliente no chat do chamado para entender e resolver seu problema.                     |   2    |
-|  7  | Baixa |  Como Atendente, desejo visualizar o histórico completo de mensagens do chamado para entender o contexto antes de responder.             |   2    |
-|  8  | Baixa |  Como Atendente, quero finalizar um chamado após resolver o problema para concluir o atendimento.                          |   2    |
-|  9  | Baixa |  Como Cliente, desejo receber notificações sobre atualizações no meu chamado para acompanhar mesmo fora do aplicativo.                |   3    |
-|  10 | Baixa |  Como Atendente, quero escalonar um chamado para outro grupo de suporte para que possam resolver problemas que excedem meu nível.          |   3    |
+| Rank | Prioridade |                  User Story                    | Sprint  |
+| :--: | :--------: | :--------------------------------------------: | :-----: | 
+| 1 | Alta | Como Administrador, quero gerenciar grupos de suporte e seus atendentes para organizar o atendimento dos chamados. | 1 |
+| 2 | Alta | Como Cliente, desejo iniciar um atendimento para relatar meu problema para receber suporte.  |   1   |
+| 3 | Alta | Como Cliente, quero visualizar meus chamados e seus status para acompanhar o andamento das minhas solicitações e poder as consultar quando quiser. |  1  |
+| 4 |  Média | Como Atendende, quero receber ou assumir chamados para iniciar o atendimento ao cliente.   |   2    |
+| 5 |  Média | Como Administrador, quero configurar as regras de triagem para classificar os chamados aos grupos corretos conforme o tipo de problema. |  2  |
+| 6 | Alta | Como Atendente, quero me comunicar com o cliente no chat do chamado para entender e resolver seu problema. |   2  |
+| 7 | Média | Como Atendente, desejo visualizar o histórico completo de mensagens do chamado para entender o contexto antes de responder.  |   2  |
+| 8 | Baixa | Como Atendente, quero finalizar um chamado após resolver o problema para concluir o atendimento.  |   2    |
+| 9 | Média | Como Cliente, desejo receber notificações sobre atualizações no meu chamado para acompanhar mesmo fora do aplicativo. | 3 |
+| 10 | Média |Como Atendente, quero escalonar um chamado para outro grupo de suporte para que possam resolver problemas que excedem meu nível.   |   3    |
+| 11 | Baixa | Como administrador, quero visualizar indicadores de atendimento para entender o volume de chamados, principais problemas e desempenho da equipe.  |   3    |
 
-
+<!--
 ## :bomb: DoR - Definition of Ready <a id="dor"></a>
 
 ✔️ Descrição Clara e Concisa: A história do usuário possui uma descrição clara e concisa do ponto de vista do usuário.
@@ -88,7 +89,7 @@ Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe 
 - Aprovação do Product Owner: Cada história foi testada e aprovada pelo Product Owner.
 
 - Código no Repositório Principal: O código foi incorporado à branch principal do projeto.
-
+--->
 ---
 
 ## 📅 Cronograma de Sprints <a id="sprint"></a>
@@ -102,21 +103,20 @@ Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe 
 | Feira de Soluções | 18/06/206     | A seguir  |
 
 
-## :iphone: Protótipo da Aplicação <a id="prototipo"></a>
+## :iphone: Principais Protótipos da Aplicação <a id="prototipo"></a>
 
 <div align="center">
 <table>
   <tr>
-      <th> <img src="docs/assets/telas-figma/light-mode/Inicio%20-%20Light%20mode.png"> </th>
-      <th> <img src = "docs/assets/telas-figma/light-mode/Criar%20conta-%20Light%20mode.png"> </th>
-      <th> <img src = "docs/assets/telas-figma/light-mode/Tela%20Principal%20-%20Light%20mode.png"> </th>
-      <th> <img src = "docs/assets/telas-figma/light-mode/Perfil%20-%20Light%20mode.png"> </th>
-  </tr>
-  <tr>
-      <td> <img src="docs/assets/telas-figma/dark-mode/Inicio%20-%20Dark%20mode.png"></td>
-      <td> <img src ="docs/assets/telas-figma/dark-mode/Criar%20conta%20-%20Dark%20mode.png"> </td>
-      <td> <img src ="docs/assets/telas-figma/dark-mode/Tela%20Principal%20-%20%20Dark%20mode.png"> </td>
-      <td> <img src ="docs/assets/telas-figma/dark-mode/Perfil%20-%20%20Dark%20mode.png"> </td>
+<th> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/mobile/telas-cliente/Cadastrar%20usu%C3%A1rio.png"> </th>
+<th> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/mobile/telas-cliente/Tela%20-%20Triagem.png"> </th>
+<th> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/mobile/telas-cliente/Tela%20Perfil.png"> </th>
+<th> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/mobile/telas-cliente/Tela%20de%20boas-vindas%20COM%20CHAMADOS.png"> </th>
+</tr> <tr>
+<td> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/desktop/atendente/Homepage.png"></td>
+<td> <img src ="https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/desktop/atendente/Chat.png"> </td>
+<td> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/desktop/atendente/Chamados.png"> </td>
+<td> <img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/figma/desktop/admin/Admin%20Triagem-1.png"> </td>
   </tr>
 </table>
 </div>
@@ -175,12 +175,12 @@ Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe 
 
 ## :mag_right: Roadmap de Entregas <a id="roadmap"></a>
 
-> :lock: Em breve! 
-
+<img src = "https://github.com/CodeDontBlow/pro4tech-Orbita/blob/chore/docs-sprint2/docs/assets/roadmap.jpg">
 
 ## 📖 Guia de Documentações <a id="manual"></a>
 
 [Guias do Usuário (Manual de Instalação e Utilização do Orbita)](docs/guia)
+
 [Documentação Técnica](docs/documentacao)
 
 ## :scissors: Pavio Cutters:
@@ -191,12 +191,12 @@ Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe 
 | Integrante            | Função            | GitHub                            |
 | --------------------- | ----------------- | --------------------------------- |
 | Rafael Gonçalves      | **Scrum Master**  | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/EstupendoG)       |
-| Leonardo Cristiano    | **Product Owner** | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza)  |
+| Vanessa da Costa      | **Product Owner** | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Doryumi)          |
 | Henrique Tadeu        | Dev Team          | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/henrySilverIX)    |
 | Luana Souza           | Dev Team          | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/luanaapms)        |
 | Raphaela Monteiro     | Dev Team          | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/raphaelamonteiro) |
 | Ramon Amorim da Silva | Dev Team          | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ramonads42)       |
-| Vanessa da Costa      | Dev Team          | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Doryumi)          |
+| Leonardo Cristiano    |  Dev Team  | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza)  |
 | Victor Godoy          | Dev Team          | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorrgodoy)     |
 
 </div>
