@@ -32,7 +32,7 @@
 <br>
 
 ## 🏁 Desafio: <a id="desafio"></a>
-
+      
 O desafio consiste em desenvolver uma **aplicação mobile** que centralize o atendimento ao cliente via **sistema de chat estruturado**. <br>
 A jornada inicia com uma **triagem automatizada**, que pode ser feita com uma URA digital baseada em regras e perguntas frequentes, e encaminha para atendentes humanos organizados por grupos e níveis de suporte. O sistema deve registrar todo o histórico de interações e permitir o acompanhamento completo do fluxo de atendimento, incluindo abertura, escalonamento e encerramento de chamados. <br>
 O objetivo é **otimizar o processo de atendimento**, promovendo eficiência operacional, melhor experiência para o cliente e maior controle gerencial, com regras de negócio refinadas colaborativamente durante o desenvolvimento.
@@ -40,10 +40,16 @@ O objetivo é **otimizar o processo de atendimento**, promovendo eficiência ope
 
 ## :dart: MVP (Minimal Viable Product) <a id="mvp"></a>
 
-A solução para esse desafio é <b>AdaTech</b>, uma plataforma inovadora que automatiza a criação da instrução de registro aduaneiro, proporcionando uma experiência sem fricções e com precisão. <br>
-o sistema integra, de forma eficiente, dados essenciais como Part-Number, classificação fiscal, fabricante e origem para gerar automaticamente uma descrição do produto que seja tanto clara quanto legalmente compatível.<br>
-O que antes demandava tempo, foco e o risco de erros de interpretação, agora é feito de forma rápida, e com conformidade. <br>
-Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe para se concentrar em tarefas de maior valor agregado, acelerando o processo e aumentando a segurança nas transações aduaneiras.
+A solução para esse desafio é o **Orbita**, uma plataforma inovadora que combina uma aplicação mobile para clientes e atendentes com uma interface web completa para administradores, centralizando o atendimento por meio de um sistema de chat estruturado e proporcionando uma **experiência fluida, organizada e eficiente**. <br>
+
+A jornada se inicia com uma triagem, baseada em regras de negócio e perguntas frequentes, que direciona o usuário de forma rápida e assertiva. A partir dessa triagem, o sistema encaminha o atendimento para equipes humanas organizadas por grupos e níveis de suporte, garantindo que cada demanda seja tratada pelo responsável mais adequado. <br>
+
+Os clientes podem interagir facilmente via aplicativo, enquanto os atendentes têm flexibilidade para atuar tanto pelo mobile quanto pelo painel web, permitindo atendimento em tempo real de qualquer lugar. Já os administradores contam com um painel web robusto, que possibilita gerenciar filas, configurar regras de triagem, monitorar desempenho e manter o controle completo da operação. <br>
+
+O Orbita integra e registra automaticamente todo o histórico de interações, permitindo o acompanhamento completo do fluxo de atendimento. Desde a abertura até o escalonamento e encerramento dos chamados. O que antes exigia múltiplos canais, retrabalho e risco de perda de informações, agora é **centralizado em uma única plataforma, com rastreabilidade e controle total**. <br>
+
+**Isso não apenas otimiza o processo de atendimento e reduz falhas operacionais, mas também melhora significativamente a experiência do cliente e fortalece a gestão, permitindo decisões mais rápidas e embasadas.**
+
 
 ## :book: Backlog do Produto
 
@@ -54,13 +60,13 @@ Isso não apenas minimiza os riscos de penalidades, mas também libera a equipe 
 | 1 | Alta | Como Administrador, quero gerenciar grupos de suporte e seus atendentes para organizar o atendimento dos chamados. | 1 |
 | 2 | Alta | Como Cliente, desejo iniciar um atendimento para relatar meu problema para receber suporte.  |   1   |
 | 3 | Alta | Como Cliente, quero visualizar meus chamados e seus status para acompanhar o andamento das minhas solicitações e poder as consultar quando quiser. |  1  |
-| 4 |  Média | Como Atendende, quero receber ou assumir chamados para iniciar o atendimento ao cliente.   |   2    |
-| 5 |  Média | Como Administrador, quero configurar as regras de triagem para classificar os chamados aos grupos corretos conforme o tipo de problema. |  2  |
-| 6 | Alta | Como Atendente, quero me comunicar com o cliente no chat do chamado para entender e resolver seu problema. |   2  |
+| 4 | Alta | Como Atendente, quero me comunicar com o cliente no chat do chamado para entender e resolver seu problema. |   2  |
+| 5 | Média | Como Atendende, quero receber ou assumir chamados para iniciar o atendimento ao cliente.   |   2    |
+| 6 | Média | Como Administrador, quero configurar as regras de triagem para classificar os chamados aos grupos corretos conforme o tipo de problema. |  2  |
 | 7 | Média | Como Atendente, desejo visualizar o histórico completo de mensagens do chamado para entender o contexto antes de responder.  |   2  |
-| 8 | Baixa | Como Atendente, quero finalizar um chamado após resolver o problema para concluir o atendimento.  |   2    |
-| 9 | Média | Como Cliente, desejo receber notificações sobre atualizações no meu chamado para acompanhar mesmo fora do aplicativo. | 3 |
-| 10 | Média |Como Atendente, quero escalonar um chamado para outro grupo de suporte para que possam resolver problemas que excedem meu nível.   |   3    |
+| 8 | Média | Como Cliente, desejo receber notificações sobre atualizações no meu chamado para acompanhar mesmo fora do aplicativo. | 3 |
+| 9 | Média |Como Atendente, quero escalonar um chamado para outro grupo de suporte para que possam resolver problemas que excedem meu nível.   |   3    |
+| 10 | Baixa | Como Atendente, quero finalizar um chamado após resolver o problema para concluir o atendimento.  |   2    |
 | 11 | Baixa | Como administrador, quero visualizar indicadores de atendimento para entender o volume de chamados, principais problemas e desempenho da equipe.  |   3    |
 
 <!--
