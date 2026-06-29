@@ -5,14 +5,20 @@
 <h2 align="center"> 💣 Code Don't Blow </h2>
 </div>
 
-<div align="center">
+<p align="center">
+  <a href="./README.md">🇧🇷 Português</a> • 
+  <a href="./README-EN.md">🇺🇸 English</a>
+</p>
 
+
+<div align="center">
 |
 <a href ="#desafio"> Desafio</a> |
 <a href ="#mvp"> Solução</a> |
 <a href ="#backlog"> Backlog do Produto</a> |
 <a href ="#sprint"> Cronograma de Sprints</a> |
-<a href ="#tecnologias"> Tecnologias </a> |
+<a href ="#tecnologias"> Tecnologias </a> 
+|
 
 <!---a href ="#estrutura"> Estrutura do Projeto </a> |
 <a href ="#dor"> DoR</a> |
